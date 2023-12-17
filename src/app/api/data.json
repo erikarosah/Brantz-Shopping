@@ -5,7 +5,7 @@
             "title": "Camisa Goleiro Manchester City 2023/24",
             "slug": "camiseta-goleiro",
             "price": 370,
-            "image": "./camisa-01.png",
+            "image": "/camisa-01.png",
             "description": "A camisa titular do Manchester City para a temporada 2023/24 é um clássico instantâneo. Projetado com um moderno decote em V, apresentando o escudo do clube e o logotipo PUMA Cat bordado no peito. Disponível em mangas curtas, esta camisa de corte regular com estampa exclusiva na lateral para homens e mulheres certamente fará uma declaração.",
             "featured": true
         },
@@ -14,7 +14,7 @@
             "title": "Terceira Camisa Do Manchester City 2023/24",
             "slug": "terceira-camisa",
             "price": 370,
-            "image": "./camisa-02.png",
+            "image": "/camisa-02.png",
             "description": "Esta camisa é feita com materiais 100% reciclados e apresenta o escudo oficial do clube Manchester City bordado no lado esquerdo do peito e o logotipo PUMA Cat. Esta camisa dos Campeões Europeus, usada nos jogos europeus fora de casa, tem um padrão de faísca elétrica por toda parte, junto com rosa neon no brasão do clube e logotipos dos patrocinadores. Projetado com uma silhueta de ajuste regular para máximo conforto e estilo. Perfeito para dias de jogos ou para representar seu time favorito nas ruas.",
             "featured": true
         },
@@ -23,7 +23,7 @@
             "title": "Camisa Alternativa Do Manchester City 2023/24",
             "slug": "camisa-alternativa",
             "price": 370,
-            "image": "./camisa-03.png",
+            "image": "/camisa-03.png",
             "description": "Esta camisa oficial é feita com materiais 100% reciclados e apresenta o escudo oficial do clube Manchester City bordado no lado esquerdo do peito com efeito metálico, e o logotipo PUMA Cat à direita. Inspirada na agitação da CIDADE, esta coleção foi projetada para capturar a criatividade dentro da cidade. Os detalhes incluem o motivo de fábrica relacionado ao fundo industrial de Manchester impresso dentro do decote e a gola de inspiração retrô. A silhueta casual de ajuste regular oferece o máximo conforto e é perfeita para usar dentro e fora do campo. O complemento ideal para o seu guarda-roupa City.",
             "featured": true
         },
@@ -32,7 +32,7 @@
             "title": "Camisa Terceira Do Manchester City 2023/24 Manga Longa",
             "slug": "terceira-camisa-manga-longa",
             "price": 395,
-            "image": "./camisa-04.png",
+            "image": "/camisa-04.png",
             "description": "esta camisa é feita com materiais 100% reciclados e apresenta o escudo oficial do clube Manchester City impresso no lado esquerdo do peito e detalhes da marca PUMA Cat. Esta camisa dos Campeões Europeus usada nos jogos europeus fora de casa tem um padrão de faísca elétrica por toda parte, junto com detalhes em rosa neon. Projetado com uma silhueta de ajuste regular para máximo conforto e estilo. Esta camisa de manga comprida é perfeita para dias de jogo ou para representar seu time favorito nas ruas.",
             "featured": false
         },
@@ -41,8 +41,53 @@
             "title": "Camisa Alternativa Do Manchester City 2023/24 Manga Longa",
             "slug": "camisa-alternativa-manga-longa",
             "price": 395,
-            "image": "./camisa-05.png",
+            "image": "/camisa-05.png",
             "description": "Esta camisa oficial é feita com materiais 100% reciclados e apresenta o escudo oficial do clube Manchester City bordado no lado esquerdo do peito com efeito metálico e o logotipo PUMA Cat à direita. Inspirada na agitação da CIDADE, esta coleção foi projetada para capturar a criatividade dentro da cidade. Os detalhes incluem o motivo de fábrica relacionado ao fundo industrial de Manchester impresso dentro do decote e a gola de inspiração retrô. Projetado com uma silhueta regular de manga comprida para máximo conforto e estilo. Esta camisa de manga comprida é perfeita para dias de jogos ou para representar seu time favorito dentro e fora do campo.",
+            "featured": false
+        },
+        {
+            "id": 6,
+            "title": "Moletom Manchester City Essentials Com Forro De Lã",
+            "slug": "moletom-manchester-city-preto",
+            "price": 222.50,
+            "image": "/moletom-01.png",
+            "description": "Torne-se o maior torcedor do Manchester City. Este moletom Man City é a maneira ideal de se manter aquecido e mostrar sua lealdade onde quer que você vá. Este moletom com capuz essencial em jersey com bolsos canguru foi projetado com corpo inteiro e forro de manga para aquecimento extra. O ajuste regular o torna perfeito para todos os gêneros. Um item obrigatório.",
+            "featured": false
+        },
+        {
+            "id": 7,
+            "title": "Moletom Com Capuz Forrado De Lã Manchester City Essentials E Amp; Moletom",
+            "slug": "moletom-capuz-manchester-city",
+            "price": 222.50,
+            "image": "/moletom-02.png",
+            "description": "Torne-se o maior torcedor do Manchester City. Este moletom com capuz Man City Essentials e amp; calças de moletom são a maneira ideal de se manter aquecido e mostrar sua lealdade onde quer que você vá.",
+            "featured": false
+        },
+        {
+            "id": 8,
+            "title": "Suéter Manchester City Essentials Crew",
+            "slug": "sueter-manchester-city",
+            "price": 222.50,
+            "image": "/moletom-03.png",
+            "description": "Mostre seu orgulho Cityzen dentro e fora do campo. Este moletom do Man City é a maneira ideal de se manter aquecido e mostrar sua lealdade onde quer que você vá. Este moletom essencial foi projetado com corpo inteiro e forro de manga para aquecimento extra. O ajuste regular o torna perfeito para homens e mulheres. Um item obrigatório no guarda-roupa de qualquer Cityzen.",
+            "featured": false
+        },
+        {
+            "id": 9,
+            "title": "Jaqueta Corta-Vento Legacy FTBL Do Manchester City",
+            "slug": "jaqueta-corta-vento-legacy",
+            "price": 345.98,
+            "image": "/jaqueta-01.png",
+            "description": "Mantenha-se aquecido e seco em todas as condições climáticas. Esta jaqueta corta-vento do Manchester City é perfeita para temperaturas amenas, e seus detalhes esportivos da marca deixam facilmente seu entusiasmo pelo Cityzen em plena exibição.",
+            "featured": false
+        },
+        {
+            "id": 10,
+            "title": "Jaqueta Casual Com Capuz Do Manchester City",
+            "slug": "jaqueta-casual-capuz",
+            "price": 345.98,
+            "image": "/jaqueta-02.png",
+            "description": "Um casaco casual com capuz para todas as estações. A coleção casual 23/24 é a coleção oficial de apresentação e viagem que é usada pelos jogadores e comissão técnica quando representam a equipe. Projetado para conforto ideal sem comprometer o estilo.",
             "featured": false
         }
     ]
